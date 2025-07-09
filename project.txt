@@ -1,0 +1,12 @@
+ Project: "Task Manager API"
+🧩 Features
+
+This API allows users to:
+
+    Register and login (JWT-based authentication)
+
+    Create, update, delete, and list tasks (CRUD)
+
+    Tasks are user-specific – users can only manage their own tasks
+
+    Optional: Tasks have due dates, statuses, and tags
